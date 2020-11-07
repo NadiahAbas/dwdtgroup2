@@ -85,7 +85,7 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">SYAFIQ</a>
+                    <a href="https://laravel.com/docs">BAHIT</a>
                     <a href="https://laracasts.com">MENGAKUN</a>
                     <a href="https://laravel-news.com">YA</a>
                     <a href="https://blog.laravel.com">SUKA</a>
